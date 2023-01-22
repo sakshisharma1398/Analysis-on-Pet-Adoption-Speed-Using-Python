@@ -3,7 +3,7 @@ The dataset in this Project is collected from PetFinder.my
 Detailed descripiton about the dataset is provided with the data_original.csv file.
 
 Exploratory Data Analysis:
-I have first started with cleaning and processing the data. Here, I removed the null and duplicate values. Then, I convereted the numerical data into categorical for better understanding and performing descriptive analysis.
+I first started with cleaning and processing the data. Here, I removed the null and duplicate values. Then, I convereted the numerical data into categorical for better understanding and performing descriptive analysis.
 I have used multiple graphs which show insights generated from the data.
 
 Subjectivity Analysis(Text Analysis):
